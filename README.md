@@ -45,7 +45,7 @@ I'm passionate about contributing to open-source projects. Here are some of my n
 
 Want to collaborate on a project, or just want to say hi? You can reach me at:
 
-* **Email:** [affule11@yahoo.com]
+* **Email:** affule11@yahoo.com
 * **LinkedIn:** [your LinkedIn profile]
 
 ## Fun Facts 🎉
