@@ -110,7 +110,7 @@ Methodologies: Agile, Scrum, Clean Architecture
 
 ### 📫 Let's Connect
 - 📧 Email: emmanuelafful946@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/emmanuel-afful-6ba505260](https://linkedin.com/in/emmanuel-afful-6ba505260)
+- 💼 LinkedIn: [linkedin.com/in/emmanuel-afful-6ba505260](https://linkedin.com/in/emmanuel-afful-74336517b)
 - 📱 Phone: +233 20 5455451
 - 💬 Open for collaboration on Go projects!
 
