@@ -110,18 +110,18 @@ Methodologies: Agile, Scrum, Clean Architecture
 
 ### 📫 Let's Connect
 - 📧 Email: emmanuel.afful@proton.me
-- 💼 LinkedIn: [linkedin.com/in/emmanuel-afful-6ba505260](https://linkedin.com/in/emmanuel-afful-74336517b)
+- 💼 LinkedIn: [linkedin.com/in/emmanuel-afful-74336517b](https://linkedin.com/in/emmanuel-afful-74336517b)
 - 📱 Phone: +233 20 5455451
 - 💬 Open for collaboration on Go projects!
 
 ### 📊 GitHub Stats
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=affulk000&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=affulk000&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800)
 
 ### 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=affulk000&layout=compact&theme=radical&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=affulk000&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=1800)
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=affulk000&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=affulk000&theme=radical&hide_border=true)
 
 ---
 
