@@ -115,10 +115,10 @@ Methodologies: Agile, Scrum, Clean Architecture
 - 💬 Open for collaboration on Go projects!
 
 ### 📊 GitHub Stats
-![Emmanuel's GitHub stats](https://github-readme-stats-affulk000.vercel.app/api?username=affulk000&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+![Emmanuel's GitHub stats](https://github-readme-stats-three-lovat-96.vercel.app/api?username=affulk000&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
 
 ### 🏆 Top Languages
-![Top Langs](https://github-readme-stats-affulk000.vercel.app/api/top-langs/?username=affulk000&layout=compact&theme=radical&langs_count=8&hide_border=true)
+![Top Langs](https://github-readme-stats-three-lovat-96.vercel.app/api/top-langs/?username=affulk000&layout=compact&theme=radical&langs_count=8&hide_border=true)
 
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=affulk000&theme=radical&hide_border=true)
