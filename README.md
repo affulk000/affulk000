@@ -109,7 +109,7 @@ Methodologies: Agile, Scrum, Clean Architecture
 🚧 *More projects coming soon! Currently focusing on making Krafti Vibe production-ready.*
 
 ### 📫 Let's Connect
-- 📧 Email: emmanuelafful946@gmail.com
+- 📧 Email: emmanuel.afful@proton.me
 - 💼 LinkedIn: [linkedin.com/in/emmanuel-afful-6ba505260](https://linkedin.com/in/emmanuel-afful-74336517b)
 - 📱 Phone: +233 20 5455451
 - 💬 Open for collaboration on Go projects!
